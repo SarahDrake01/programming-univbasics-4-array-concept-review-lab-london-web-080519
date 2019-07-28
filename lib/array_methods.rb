@@ -8,7 +8,7 @@ while counter < array.length do
   end
   new_array[]
 end
-new_array[]
+
 
 def find_max_value(array)
 
