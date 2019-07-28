@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
-  new_array = []
+  new_array = [2]
   first_element = new_array[0]
-  array = [2]
+  array = []
   counter = 0
 while counter < array.length do
       new_array << (array[counter])
