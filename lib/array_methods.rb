@@ -6,7 +6,7 @@ while counter < array.length do
       puts new_array[counter]
       counter +=1
   end
-
+puts new_array
 end
 
 
