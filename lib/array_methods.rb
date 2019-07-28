@@ -1,5 +1,5 @@
 def find_element_index(array, value_to_find)
-  new_array = [0]
+  new_array = [2]
   first_element = new_array[0]
   array = []
   counter = 0
