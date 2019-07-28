@@ -7,7 +7,7 @@ while counter < array.length do
       new_array << (array[counter])
       counter +=1
   end
-  return new_array[0]
+  return new_array[]
 end
 
 
