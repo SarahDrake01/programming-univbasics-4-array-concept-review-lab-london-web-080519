@@ -3,11 +3,10 @@ def find_element_index(array, value_to_find)
   first_element = new_array[0]
   array = [2, 3, 4, 5]
   counter = 0
-while array < counter do
-      new_array << (array[counter])
+while counter < array.length do
+      puts array[counter]
       counter +=1
   end
-  return new_array[0]
 end
 
 
