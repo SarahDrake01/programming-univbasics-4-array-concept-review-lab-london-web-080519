@@ -12,8 +12,8 @@ end
 
 
 def find_max_value(array)
-  new_array []
-  find_element_index = new_array[0]
+    find_max_value([1,2,1,3,4,3,5,4,3,2,1])
+    puts max_value
 
 end
 
